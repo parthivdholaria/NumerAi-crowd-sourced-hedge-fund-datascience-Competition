@@ -1,0 +1,36 @@
+Meta-learning Course 
+
+Assignment 1 Numerai: PARTHIV ASHOK KUMAR  parthiv21078@iiitd.ac.in 
+
+1. Describe how you have modelled the Numerai prediction problem as a meta-learning problem, i.e., what constitutes a ‘task’ in your approach.
+
+None
+
+2. Describe the model architecture(s) and ideas you have employed and what these were inspired by, e.g., a paper, and any novel techniques or strategies you may have introduced/experimented with.
+
+None
+
+3. Describe how you trained your model(s), e.g. what data was used and how, including how your meta-train, meta-validation (if used) and meta-test data were created.
+
+None
+
+4. You are encouraged to use the public template Meta-learning@IIITD on lightning.ai. Clone this repository to test your code. Whether or not you use this, your code should ideally run in that environment. In case you install any packages over and above those already loaded in this base template, kindly list the install commands for these below, one per line:
+
+None
+
+5, 7 and 9. Provide a publicly shared Google Drive link to your training and prediction code zip file, as described in the submission instructions.
+
+None
+
+8. Run your prediction code on your meta-test split and report results including (a) correlation with target (b) overall accuracy (c) class-wise accuracies and (d) class-wise F1 scores:
+
+None
+
+10. Take a screenshot of your model score for cumulative CORRJ60 on your numerai dashboard just prior to your presentation date. Note you will need to make predictions on time in order for scores to get reflected on the dashboard. Provide a a publicly shared Google Drive link to the screenshot file here:
+
+None
+
+11. Prepare your final presentation of 7 min that includes points above as well as your learnings from the project. Provide a a publicly shared Google Drive link to your final presentation here:
+
+None
+
